@@ -1,0 +1,458 @@
+2021-05-23 17:18:27 INFO  TestSearch:29 - The Login Test started
+2021-05-23 17:18:27 INFO  TestSearch:37 - The Search Test Started
+2021-05-23 17:18:27 INFO  TestSearch:45 - The Basket Test Started
+2021-05-23 17:23:52 INFO  TestSearch:29 - The Login Test started
+2021-05-23 17:23:52 INFO  TestSearch:37 - The Search Test Started
+2021-05-23 17:23:52 INFO  TestSearch:45 - The Basket Test Started
+2021-05-23 17:24:59 INFO  TestSearch:29 - The Login Test started
+2021-05-23 17:24:59 INFO  TestSearch:37 - The Search Test Started
+2021-05-23 17:24:59 INFO  TestSearch:45 - The Basket Test Started
+2021-05-23 18:08:24 INFO  TestSearch:33 - The Login Test started
+2021-05-23 18:08:24 INFO  TestSearch:42 - The Search Test Started
+2021-05-23 18:08:24 INFO  TestSearch:50 - The Basket Test Started
+2021-05-23 18:11:53 INFO  TestSearch:33 - The Login Test started
+2021-05-23 18:18:37 INFO  TestSearch:25 - The Login Test started
+2021-05-23 18:19:50 INFO  TestSearch:25 - The Login Test started
+2021-05-23 18:23:29 INFO  TestSearch:25 - The Login Test started
+2021-05-23 18:23:29 INFO  TestSearch:34 - The Search Test Started
+2021-05-23 18:23:29 INFO  TestSearch:42 - The Basket Test Started
+2021-05-23 18:26:13 INFO  TestSearch:25 - The Login Test started
+2021-05-23 18:26:13 INFO  TestSearch:34 - The Search Test Started
+2021-05-23 18:26:13 INFO  TestSearch:42 - The Basket Test Started
+2021-05-23 18:27:05 INFO  TestSearch:25 - The Login Test started
+2021-05-23 18:27:05 INFO  TestSearch:34 - The Search Test Started
+2021-05-23 18:27:05 INFO  TestSearch:42 - The Basket Test Started
+2021-05-23 18:36:24 INFO  TestSearch:34 - The Login Test started
+2021-05-23 18:36:24 INFO  TestSearch:44 - The Search Test Started
+2021-05-23 18:36:24 INFO  TestSearch:53 - The Basket Test Started
+2021-05-23 18:40:43 INFO  TestSearch:34 - The Login Test started
+2021-05-23 18:40:43 INFO  TestSearch:44 - The Search Test Started
+2021-05-23 18:40:43 INFO  TestSearch:53 - The Basket Test Started
+2021-05-23 18:43:24 INFO  TestSearch:34 - The Login Test started
+2021-05-23 18:43:24 INFO  TestSearch:42 - The Search Test Started
+2021-05-23 18:43:24 INFO  TestSearch:51 - The Basket Test Started
+2021-05-23 18:45:00 INFO  TestSearch:34 - The Login Test started
+2021-05-23 18:45:00 INFO  TestSearch:42 - The Search Test Started
+2021-05-23 18:45:00 INFO  TestSearch:51 - The Basket Test Started
+2021-05-23 18:50:47 INFO  TestSearch:34 - The Login Test started
+2021-05-23 18:50:48 INFO  TestSearch:42 - The Search Test Started
+2021-05-23 18:50:48 INFO  TestSearch:51 - The Basket Test Started
+2021-05-23 18:55:34 INFO  TestSearch:34 - The Login Test started
+2021-05-23 18:55:34 INFO  TestSearch:42 - The Search Test Started
+2021-05-23 18:55:34 INFO  TestSearch:51 - The Basket Test Started
+2021-05-23 18:58:30 INFO  TestSearch:37 - The Login Test started
+2021-05-23 18:58:30 INFO  TestSearch:46 - The Search Test Started
+2021-05-23 18:58:30 INFO  TestSearch:56 - The Basket Test Started
+2021-05-23 19:06:20 INFO  TestSearch:37 - The Login Test started
+2021-05-23 19:06:20 INFO  TestSearch:46 - The Search Test Started
+2021-05-23 19:06:20 INFO  TestSearch:56 - The Basket Test Started
+2021-05-23 19:09:09 INFO  TestSearch:37 - The Login Test started
+2021-05-23 19:09:09 INFO  TestSearch:46 - The Search Test Started
+2021-05-23 19:09:09 INFO  TestSearch:56 - The Basket Test Started
+2021-05-23 19:13:28 INFO  TestSearch:37 - The Login Test started
+2021-05-23 19:13:29 INFO  TestSearch:46 - The Search Test Started
+2021-05-23 19:13:29 INFO  TestSearch:56 - The Basket Test Started
+2021-05-23 19:15:46 INFO  TestSearch:37 - The Login Test started
+2021-05-23 19:15:47 INFO  TestSearch:46 - The Search Test Started
+2021-05-23 19:15:47 INFO  TestSearch:56 - The Basket Test Started
+2021-05-23 19:16:46 INFO  TestSearch:37 - The Login Test started
+2021-05-23 19:16:46 INFO  TestSearch:46 - The Search Test Started
+2021-05-23 19:16:46 INFO  TestSearch:56 - The Basket Test Started
+2021-05-23 19:17:25 INFO  TestSearch:29 - The Login Test started
+2021-05-23 19:17:25 INFO  TestSearch:38 - The Search Test Started
+2021-05-23 19:17:25 INFO  TestSearch:48 - The Basket Test Started
+2021-05-23 19:34:39 INFO  TestSearch:29 - The Login Test started
+2021-05-23 19:34:39 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:44 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:44 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:44 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:44 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:44 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:45 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:45 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:45 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:45 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:45 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:45 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:46 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:46 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:46 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:46 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:46 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:46 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:47 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:47 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:47 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:47 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:47 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:47 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:48 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:48 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:48 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:48 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:48 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:48 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:49 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:49 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:49 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:49 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:49 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:49 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:49 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:50 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:50 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:50 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:50 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:50 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:51 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:51 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:51 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:51 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:51 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:51 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:52 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:52 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:52 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:52 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:52 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:52 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:53 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:53 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:53 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:53 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:53 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:53 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:54 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:54 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:54 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:54 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:54 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:54 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:55 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:55 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:55 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:55 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:55 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:55 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:56 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:56 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:56 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:56 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:56 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:57 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:57 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:57 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:57 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:58 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:58 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:58 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:58 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:58 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:59 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:59 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:59 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:59 INFO  BasePage:16 - login button appeared
+2021-05-23 19:34:59 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:00 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:00 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:00 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:00 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:00 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:00 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:01 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:01 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:01 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:01 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:01 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:01 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:02 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:02 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:02 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:02 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:02 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:03 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:03 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:03 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:03 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:03 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:03 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:04 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:04 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:04 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:04 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:04 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:05 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:05 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:05 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:05 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:05 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:06 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:06 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:06 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:06 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:06 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:07 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:07 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:07 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:07 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:07 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:07 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:08 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:08 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:08 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:08 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:08 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:08 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:09 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:09 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:09 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:09 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:09 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:10 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:10 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:10 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:10 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:10 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:10 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:11 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:11 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:11 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:11 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:11 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:11 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:12 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:12 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:12 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:12 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:12 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:13 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:13 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:13 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:13 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:13 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:13 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:14 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:14 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:14 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:14 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:14 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:15 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:15 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:15 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:15 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:15 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:15 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:16 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:16 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:16 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:16 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:16 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:16 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:17 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:17 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:17 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:17 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:17 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:17 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:18 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:18 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:18 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:18 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:18 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:19 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:19 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:19 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:19 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:19 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:19 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:20 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:20 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:20 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:20 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:20 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:20 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:20 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:21 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:21 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:21 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:21 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:21 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:21 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:22 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:22 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:22 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:22 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:22 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:22 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:23 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:23 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:23 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:23 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:23 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:24 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:24 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:24 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:24 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:24 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:24 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:25 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:25 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:25 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:25 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:25 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:25 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:26 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:26 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:26 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:26 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:26 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:26 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:27 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:27 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:27 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:27 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:27 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:28 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:28 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:28 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:28 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:28 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:28 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:29 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:29 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:29 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:29 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:29 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:29 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:30 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:30 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:30 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:30 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:30 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:31 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:31 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:31 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:31 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:31 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:31 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:32 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:32 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:32 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:32 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:32 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:32 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:33 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:33 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:33 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:33 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:33 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:34 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:34 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:34 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:34 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:34 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:34 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:35 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:35 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:35 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:35 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:35 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:35 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:35 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:36 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:36 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:36 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:36 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:36 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:36 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:37 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:37 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:37 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:37 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:37 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:38 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:38 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:38 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:38 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:38 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:38 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:39 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:39 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:39 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:39 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:39 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:39 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:40 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:41 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:42 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:43 INFO  BasePage:16 - login button appeared
+2021-05-23 19:35:51 INFO  BasePage:16 - login button appeared
+2021-05-23 19:37:05 INFO  TestSearch:38 - The Search Test Started
+2021-05-23 19:37:24 INFO  BasePage:15 - Text searched.
+2021-05-23 19:38:38 INFO  TestSearch:48 - The Basket Test Started
+2021-05-23 19:42:10 INFO  TestSearch:28 - The Login Test started
+2021-05-23 19:42:10 INFO  BasePage:16 - login button appeared
+2021-05-23 19:42:23 INFO  BasePage:27 - logged in
+2021-05-23 19:42:23 INFO  TestSearch:30 - Test Successful.
+2021-05-23 19:42:45 INFO  TestSearch:37 - The Search Test Started
+2021-05-23 19:43:04 INFO  BasePage:15 - Text searched.
+2021-05-23 19:44:40 INFO  TestSearch:47 - The Basket Test Started
+2021-05-23 19:49:18 INFO  TestSearch:28 - The Login Test started
+2021-05-23 19:49:18 INFO  BasePage:16 - login button appeared
+2021-05-23 19:50:35 INFO  TestSearch:37 - The Search Test Started
+2021-05-23 19:50:57 INFO  BasePage:15 - Text searched.
+2021-05-23 19:50:57 INFO  BasePage:19 - Going To Second Page
+2021-05-23 19:51:36 INFO  TestSearch:47 - The Basket Test Started
+2021-05-23 20:03:05 INFO  TestSearch:28 - The Login Test started
+2021-05-23 20:03:05 INFO  BasePage:16 - login button appeared
+2021-05-23 20:04:22 INFO  TestSearch:37 - The Search Test Started
+2021-05-23 20:04:44 INFO  BasePage:15 - Text searched.
+2021-05-23 20:04:44 INFO  BasePage:19 - Going To Second Page
+2021-05-23 20:05:01 INFO  TestSearch:47 - The Basket Test Started
+2021-05-23 20:08:57 INFO  TestSearch:28 - The Login Test started
+2021-05-23 20:08:58 INFO  BasePage:16 - login button appeared
+2021-05-23 20:10:29 INFO  TestSearch:47 - The Basket Test Started
+2021-05-23 20:15:39 INFO  TestSearch:28 - The Login Test started
+2021-05-23 20:15:39 INFO  BasePage:16 - login button appeared
+2021-05-23 20:17:09 INFO  TestSearch:37 - The Search Test Started
+2021-05-23 20:17:30 INFO  BasePage:15 - Text searched.
+2021-05-23 20:17:30 INFO  BasePage:19 - Going To Second Page
+2021-05-23 20:17:47 INFO  TestSearch:47 - The Basket Test Started

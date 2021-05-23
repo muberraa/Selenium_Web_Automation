@@ -1,3 +1,5 @@
+package Pages;
+
 import org.openqa.selenium.WebDriver;
 
 import static Paths.locators.*;
@@ -8,7 +10,7 @@ public class SearchBoxPage extends BasePage {
     }
 
     public SearchBoxPage search() {
-        type(SEARCH_BOX,"Bilgisayar");
+        send_keys(SEARCH_BOX,"Bilgisayar");
         click(SEARCH_BUTTON);
         logger.info("Text searched.");
         return this;
@@ -20,6 +22,7 @@ public class SearchBoxPage extends BasePage {
         logger.info("second page location check done");
         return this;
     }
+
 
 
 }

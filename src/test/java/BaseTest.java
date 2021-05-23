@@ -1,23 +1,26 @@
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.TestInstance;
+import org.junit.After;
+import org.junit.Before;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 //Web Driver setup and quit
-@TestInstance(TestInstance.Lifecycle.PER_CLASS)
+
 public class BaseTest {
 
     WebDriver driver;
 
-    @BeforeAll
+
+
+    @Before
     public void setUp(){
         WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver();
         driver.get("https://www.gittigidiyor.com/");
         //A Bigger Browser Screen
         driver.manage().window().maximize();
     }
 
-    @AfterAll
+    @After
     public void tearDown(){
         driver.quit();
     }
