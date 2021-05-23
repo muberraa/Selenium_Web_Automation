@@ -3,7 +3,7 @@ package Paths;
 import org.openqa.selenium.By;
 
 public class locators {
-    public static String EMAIL = "m***************om";
+    public static String EMAIL = "m***************com";
     public static String PSSWRD = "*************";
     public static String SECOND_PAGE = "https://www.gittigidiyor.com/arama/?k=bilgisayar&sf=2";
     public static final By USER_Login_MENU = By.cssSelector("[data-cy='header-user-menu']");
